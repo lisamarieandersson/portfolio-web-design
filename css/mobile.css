@@ -1,0 +1,15 @@
+body {
+    background: #CAE9F5;
+    font-family: 'Forum', cursive;
+}
+
+/*font-family: 'Forum', cursive;
+font-family: 'Work Sans', sans-serif*/
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.font-weight-400 {
+    font-weight: 400;
+}
