@@ -6,7 +6,7 @@ function main () {
 
 var letter = 0;
 var welcomeMessage = "Hello!"; /* The text */
-var speed = 150; /* The speed/duration of the effect in milliseconds */
+var speed = 200; /* The speed/duration of the effect in milliseconds */
 
 function typeWriter() {
   if (letter < welcomeMessage.length) {
