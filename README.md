@@ -2,4 +2,4 @@
 
 ## Lisa Marie Andersson
 
-[Demolänk to Github pages here](https://lisamarieandersson.github.io/portfolio-web-design/).
+[Demolink to Github pages here](https://lisamarieandersson.github.io/portfolio-web-design/).

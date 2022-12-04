@@ -1,6 +1,7 @@
 body {
     background: #d7eef8;
     font-family: 'Forum', cursive;
+    color: #18191A;
 }
 
 /*font-family: 'Forum', cursive;
@@ -10,7 +11,31 @@ h1 {
     font-size: 19rem;
 }
 
+.line {
+    width: 10rem;
+    height: 4rem;
+    border-top: solid 0.1rem #18191A;
+}
+
 /* Reusable classes */
+
+.flex {
+    display: flex;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.flex-justify-center {
+    justify-content: center;
+}
+
+.flex-align-center {
+    align-items: center;
+}
+
+
 
 .uppercase {
     text-transform: uppercase;
