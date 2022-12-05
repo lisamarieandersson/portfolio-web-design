@@ -11,6 +11,16 @@ h1 {
     font-size: 19rem;
 }
 
+li {
+    font-family: 'Work Sans', sans-serif;
+    list-style: none;
+}
+
+a {
+    color: #18191A;
+    text-decoration: none;
+}
+
 .line {
     width: 10rem;
     height: 4rem;
@@ -41,6 +51,15 @@ h1 {
     text-transform: uppercase;
 }
 
+.line-height {
+    line-height: 1.6;
+}
+
 .font-weight-400 {
     font-weight: 400;
+}
+
+
+.margin-right-2 {
+    margin-right: 2rem;
 }
