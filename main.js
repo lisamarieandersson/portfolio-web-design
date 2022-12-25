@@ -5,7 +5,7 @@ function main () {
 }
 
 var letter = 0;
-var welcomeMessage = "Hello!"; /* The text */
+var welcomeMessage = "Hello, nice to meet you! I'm Lisa Marie."; /* The text */
 var speed = 200; /* The speed/duration of the effect in milliseconds */
 
 function typeWriter() {

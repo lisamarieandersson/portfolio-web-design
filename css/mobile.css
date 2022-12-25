@@ -1,5 +1,5 @@
 body {
-    background: #d7eef8;
+    background: #ddf2fb;
     font-family: 'Forum', cursive;
     color: #18191A;
 }
@@ -8,7 +8,7 @@ body {
 font-family: 'Work Sans', sans-serif*/
 
 h1 {
-    font-size: 19rem;
+    font-size: 8rem;
 }
 
 li {
@@ -23,6 +23,10 @@ i {
 a {
     color: #18191A;
     text-decoration: none;
+}
+
+a:hover {
+    text-decoration: line-through;
 }
 
 .line {
